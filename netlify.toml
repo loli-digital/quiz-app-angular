@@ -1,0 +1,11 @@
+# netlify.toml
+
+# Deshabilitar el plugin de Angular
+[[plugins]]
+  package = "@netlify/angular-runtime"
+  disable = true 
+
+[build]
+  # Usar la ruta exacta de la carpeta de salida
+  publish = "dist/quiz-app/browser" 
+  command = "ng build --configuration production"
