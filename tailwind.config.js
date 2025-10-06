@@ -5,6 +5,7 @@ module.exports = {
   // en la carpeta src/ para encontrar las clases utilizadas.
   content: [
     "./src/**/*.{html,ts}", 
+    "./src/app/app.html" 
   ],
   theme: {
     extend: {},
