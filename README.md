@@ -12,6 +12,8 @@ Este es un proyecto de aplicación web interactiva desarrollada con Angular y es
 
 - **Resultados Detallados:** Historial de respuestas y puntuación final, incluyendo el tiempo total consumido.
 
+[Este es un ejercicio de roadmap.sh](https://roadmap.sh/projects/quiz-app)
+
 --- 
 
 ## Configuración Local y Ejecución
