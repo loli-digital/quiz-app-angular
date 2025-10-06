@@ -1,4 +1,22 @@
-# QuizApp
+# Quiz App (Angular & Tailwind)
+
+Este es un proyecto de aplicación web interactiva desarrollada con Angular y estilizada utilizando Tailwind CSS. Permite a los usuarios seleccionar diferentes categorías de temas y responder una serie de preguntas, ofreciendo una experiencia fluida y rápida.
+
+## Características Principales
+
+- **Temas Modulares:** La/os usuaria/os pueden seleccionar entre una variedad de temas (Animales, Geografía, Comida, Mujeres).
+
+- **Diseño Responsive:** Interfaz diseñada con Tailwind CSS, adaptándose perfectamente a dispositivos móviles y de escritorio.
+
+- **Rendimiento:** Implementación de Lazy Loading (carga perezosa) para mejorar el tiempo de carga inicial de la aplicación.
+
+- **Resultados Detallados:** Historial de respuestas y puntuación final, incluyendo el tiempo total consumido.
+
+[Este es un ejercicio de roadmap.sh](https://roadmap.sh/projects/quiz-app)
+
+--- 
+
+## Configuración Local y Ejecución
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.3.
 
