@@ -19,7 +19,7 @@ export const appConfig: ApplicationConfig = {
   standalone: true,
   providers: [],
   templateUrl: './app.html',
-  styleUrls: ['./app.css']
+  styleUrls: ['./app.css'],
 })
 export class App {
   protected readonly title = signal('quiz-app');

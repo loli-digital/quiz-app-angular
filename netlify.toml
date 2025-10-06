@@ -1,6 +1,0 @@
-# netlify.toml
-
-[build]
-  # Usar la ruta exacta de la carpeta de salida
-  publish = "dist"
-  command = "npm run build:prod"
