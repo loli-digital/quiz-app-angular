@@ -7,5 +7,5 @@
 
 [build]
   # Usar la ruta exacta de la carpeta de salida
-  publish = "dist/quiz-app/browser" 
-  command = "ng build --configuration production"
+  publish = "dist"
+  command = "npm run build:prod"
